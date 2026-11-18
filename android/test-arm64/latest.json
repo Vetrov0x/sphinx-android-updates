@@ -1,0 +1,14 @@
+{
+  "versionCode": 17,
+  "versionName": "0.2.14",
+  "bytes": 35099737,
+  "sha256": "75504adeb1d2625b9fd9cd3331c229a01821a5640c69209f35739858a7ce746c",
+  "minSdk": 28,
+  "supportedAbis": [
+    "arm64-v8a"
+  ],
+  "channel": "test-arm64",
+  "testOnly": true,
+  "platform": "android",
+  "signerSha256": "e2102aaed01bcbd9523bc51a9f4408d82af58f15e2901f0106617d445f73e998"
+}

@@ -1,0 +1,13 @@
+{
+  "version": "1.2.1",
+  "file": "Sphinx-macOS-1.2.1-arm64.zip",
+  "bytes": 240229,
+  "sha256": "42beb2ae1a636a299442544226f8835cff2a04b8ae4889c9efd6dd36c0d86948",
+  "platform": "macos",
+  "arch": "arm64",
+  "channel": "test",
+  "testOnly": true,
+  "minimumOsVersion": "13.0",
+  "signature": "ad-hoc",
+  "notarized": false
+}
